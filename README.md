@@ -1,1 +1,1 @@
-# Regenerated-EEG-for-Eye-blink-Artifact-Detection
+# Regenerated EEG for Eye-blink Artifact Detection
